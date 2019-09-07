@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [General Introduction to Machine Learning](README.md)
 * [Untitled](untitled.md)
 
